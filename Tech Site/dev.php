@@ -35,24 +35,24 @@
                </div>
             </header>
          <div class="row">
-             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 ">
-                 <img src="img/dev_2.png" id="dev1" onmouseover="this.src='img/dev_4.png'" onmouseout="this.src='img/dev_2.png'" style="float: right">
+             <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                 <center><img src="img/dev_2.png" id="dev1" onmouseover="this.src='img/dev_4.png'" onmouseout="this.src='img/dev_2.png'"></center>
              </div>
-             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+<!--             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
                  <img src="img/dev_3_r.png" id="dev2" onmouseover="this.src='img/dev_5_r.png'" onmouseout="this.src='img/dev_3_r.png'">
-             </div>
+             </div>-->
          </div>
          <div class="row">
-               <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-lg-push-4 col-md-push-11">
+               <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 col-lg-push-5 col-md-push-6 col-xs-push-6 col-sm-push-6">
                    <a href="https://plus.google.com/u/0/104329515934228595893/posts"><img src="img/gp.png" id="gp"></a>
                    <a href="https://in.linkedin.com/pub/asheesh-sharma/a5/446/7b1" ><img src="img/link.png" id="link"></a>
                    <a href="https://www.facebook.com/asheesh.sharma.37"><img src="img/fb.png" id="fb"></a>
              </div>
-             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-lg-push-1">
+<!--             <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6 col-lg-push-1">
                  <a href="plus.google.com/108531313819611306827"><img src="img/gp.png" id="gp2"></a>
                  <a href="in.linkedin.com/in/merajahmadsiddiqui"><img src="img/link.png" id="link2"></a>
                    <a href="facebook.com/msiddiqui.jmi"><img src="img/fb.png" id="fb2"></a>
-             </div> 
+             </div> -->
          </div>
     </div>
 </body>

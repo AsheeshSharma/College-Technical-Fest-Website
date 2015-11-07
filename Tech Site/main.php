@@ -134,7 +134,7 @@
                 </div>
                 <div class="col-md-4 col-xs-4 col-lg-4 col-sm-4 ">
                     <table style="float: right"><tr><td><a href="" id="a3"><img src="img/sb_r_1.png" id="i14"  ></a></td></tr>
-                        <tr><td><a href="" id="a3"><img src="img/sb_r_2.png" id="i16" ></a></td></tr>
+                        <tr><td><a href="register.php" id="a3"><img src="img/sb_r_2.png" id="i16" ></a></td></tr>
                         <tr><td><a href="dev.php" id="a3"><img src="img/sb_r_3.png" id="i17" ></a></td></tr> </table> 
 <!--                     
                     <a href="" id="a4"><img src="img/sbr_1.png" id="i14" ></a>

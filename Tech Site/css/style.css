@@ -1,5 +1,6 @@
 #p1{
-    background-image: url(try_1.png);
+    background-image: url(try_3.png);
+   
 }
 
 #i20{
@@ -588,8 +589,8 @@
     }
    #lg
    {
-     width: 15px;
-     height: 25px;
+     width: 25px;
+     height: 35px;
      float:bottom;
      
    }
@@ -605,7 +606,7 @@
    }
    #dev1
    
-   {   margin-left: 30px; 
+   { 
        margin-top: 60px;
        width: 282px;
         height: 381px;
@@ -622,7 +623,7 @@
         max-width: 100%;
    }
      #gp
-   {  
+   {  margin-left: 20px;
        margin-top: 20px;
        width: 30px;
         height: 30px;
@@ -648,7 +649,7 @@
    }
        #gp2
    {  
-      margin-top: 20px;
+      margin-top: 30px;
        width: 30px;
         height: 30px;
            display: inline-block;
@@ -670,4 +671,58 @@
            display: inline-block;
         height: auto;
         max-width: 100%;
+   }
+   #e11
+   
+   {    width: 450px;
+        height:450px;
+        margin-top: 80px;
+          display: inline-block;
+        height: auto;
+        max-width: 100%;
+    
+   }
+   #e12
+   {
+     width: 450px;
+        height:450px;
+          display: inline-block;
+           margin-top: 20px; 
+        height: auto;
+        max-width: 100%;
+   }
+  #e13
+   {
+         width: 450px;
+        height:450px;
+          display: inline-block;
+          margin-top: 20px;
+        height: auto;
+        max-width: 100%;}
+   #e14
+   {   
+         width: 450px;
+        height:450px;
+         margin-top: 20px;
+          display: inline-block;
+        height: auto;
+        max-width: 100%;
+   }
+   #e15
+   {
+     width: 450px;
+        height:450px;
+        margin-top: 20px;
+          display: inline-block;
+        height: auto;
+        max-width: 100%;
+   }
+   #eve{
+       margin-top: 40px;
+       width: 460px;
+       height: 95px;
+               display: inline-block;
+        height: auto;
+        max-width: 100%;
+        
    }

@@ -14,6 +14,7 @@
     <script src="js/respond.js"></script>
 </head>
 <body>
+   
     <div data-role="page" id="p1">
         <a href="index.php"><img src="img/logoFU.png" id="lg" onmouseover="this.src='img/logoF.png'" onmouseout="this.src='img/logoFU.png'"></a> 
          <header class="row">
